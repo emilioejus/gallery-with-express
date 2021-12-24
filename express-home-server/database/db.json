@@ -1,0 +1,20 @@
+[
+  {
+    "id": "709b7b34-77e2-4ddc-b748-f21784286427",
+    "name": "Emilio Ugeda",
+    "email": "emilioejus@gmail.com",
+    "password": "$2b$10$8smQQ9mTGROxrOFptckDPuNRDCUameH6n8teAisqynM5dQN2fJ6VC"
+  },
+  {
+    "id": "55d1dccd-a8d2-4887-8b6e-d92313801ad1",
+    "name": "daniel",
+    "email": "daniel@gmail.com",
+    "password": "$2b$10$SlYePbEYEfgmiaGYOx4jRujbdg/qKs.MCQZc6tUkaLhSDkZF596lG"
+  },
+  {
+    "id": "2e6f6629-775d-4a25-8247-6baa1897b035",
+    "name": "pablo",
+    "email": "pablo@gmail.com",
+    "password": "$2b$10$.njOZWDNjWeQKpsoNzdbReXT3hjIaB1eqmrBGcPnOr/rrITKFuDPC"
+  }
+]
